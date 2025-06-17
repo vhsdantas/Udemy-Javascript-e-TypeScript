@@ -1,5 +1,5 @@
-/*             012345678910  
-const nomoe = 'Luiz Otávio'
+/*            012345678910  
+const nome = 'Luiz Otávio'
 console.log(nome[0])
 */
 
